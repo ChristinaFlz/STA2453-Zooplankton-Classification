@@ -11,7 +11,10 @@ Warning: The raw data is very large.
 In **Code** folder, the notebooks are named in chronological order containing the main purpose.   
 To run the notebooks, download the data to **Code** folder. 
 
-`01_data_preprocessing.ipynb` saves the final data for analysis at the end.  
-Note: `sample_data.csv` is a sample of the final data containing the first 1000 lines. Users can use this file to test the reproductivity of code after renaming the corresponding input file name in the notebooks.
-`02_EDA.ipynb` uses the final data from the previous notebook and do EDA.   
+`01_data_preprocessing.ipynb` saves the final data for analysis at the end.      
+
+Note: `sample_data.csv` is a sample of the final data containing the first 1000 lines. Users can use this file to test the reproductivity of code after renaming the corresponding input file name in the notebooks.   
+
+`02_EDA.ipynb` uses the final data from the previous notebook and do EDA.     
+
 `03_modeling.ipynb` contains different approaches for classification.   
